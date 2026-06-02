@@ -12,7 +12,6 @@ int main()
             break;
         }
     }
-
     if (f == 0)
         printf("Prime Number");
     else
